@@ -1,0 +1,77 @@
+{
+    "success": true,
+    "data": {
+        "im": [
+            {
+                "name": "Facebook",
+                "qrcode": "https://d149xzut2sq6e3.cloudfront.net/upload/87337285.jpg",
+                "desc": null,
+                "link": "https://www.facebook.com/share/g/1CQk7vBv7r/",
+                "title": "Cộng đồng Ecom thực chiến",
+                "linkText": null,
+                "schemeUrl": "https://www.facebook.com/share/g/1CQk7vBv7r/"
+            }
+        ],
+        "medias": [
+            {
+                "name": "TikTok",
+                "qrcode": null,
+                "desc": null,
+                "link": "https://www.tiktok.com/@kalodata_vietnam",
+                "title": null,
+                "linkText": null,
+                "schemeUrl": "https://www.tiktok.com/@kalodata_vietnam"
+            },
+            {
+                "name": "Facebook",
+                "qrcode": null,
+                "desc": null,
+                "link": "https://www.facebook.com/kalodatavietnam/",
+                "title": null,
+                "linkText": null,
+                "schemeUrl": "https://www.facebook.com/kalodatavietnam/"
+            },
+            {
+                "name": "Youtube",
+                "qrcode": null,
+                "desc": null,
+                "link": "https://www.youtube.com/channel/UC6Pxan99eY5ZkrMqGGiMm8Q",
+                "title": null,
+                "linkText": null,
+                "schemeUrl": "youtube://channel/UC6Pxan99eY5ZkrMqGGiMm8Q"
+            }
+        ],
+        "community": {
+            "name": "Zalo",
+            "qrcode": "https://d149xzut2sq6e3.cloudfront.net/upload/92eebbb5.jpg",
+            "desc": null,
+            "link": "https://zalo.me/g/mpthsn296",
+            "title": null,
+            "linkText": null,
+            "schemeUrl": "https://zalo.me/g/mpthsn296"
+        },
+        "communityMap": {
+            "default": {
+                "default": {
+                    "name": "Zalo",
+                    "qrcode": "https://d149xzut2sq6e3.cloudfront.net/upload/92eebbb5.jpg",
+                    "desc": null,
+                    "link": "https://zalo.me/g/mpthsn296",
+                    "title": null,
+                    "linkText": null,
+                    "schemeUrl": "https://zalo.me/g/mpthsn296"
+                }
+            }
+        },
+        "email": "support.vn@kalowave.com",
+        "country": [
+            "vietnam"
+        ],
+        "language": [
+            "vi-VN"
+        ]
+    },
+    "message": null,
+    "cached": null,
+    "code": null
+}

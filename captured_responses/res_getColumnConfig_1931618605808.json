@@ -1,0 +1,94 @@
+{
+    "success": true,
+    "data": {
+        "config": [
+            {
+                "key": "nickname",
+                "name": "Creator Info",
+                "checked": true,
+                "disabled": true,
+                "fixed": "left"
+            },
+            {
+                "key": "revenue",
+                "name": "Revenue",
+                "checked": true,
+                "disabled": true,
+                "fixed": ""
+            },
+            {
+                "key": "sale",
+                "name": "Item Sold",
+                "checked": true,
+                "disabled": false,
+                "fixed": ""
+            },
+            {
+                "key": "followers",
+                "name": "Followers",
+                "checked": true,
+                "disabled": false,
+                "fixed": ""
+            },
+            {
+                "key": "new_followers",
+                "name": "Follower Change",
+                "checked": true,
+                "disabled": false,
+                "fixed": ""
+            },
+            {
+                "key": "product_ids",
+                "name": "Best-selling Products",
+                "checked": true,
+                "disabled": false,
+                "fixed": ""
+            },
+            {
+                "key": "revenue_trend",
+                "name": "Revenue Trends",
+                "checked": true,
+                "disabled": false,
+                "fixed": ""
+            },
+            {
+                "key": "views",
+                "name": "Content Views",
+                "checked": true,
+                "disabled": false,
+                "fixed": ""
+            },
+            {
+                "key": "views_trend",
+                "name": "Views Trend",
+                "checked": true,
+                "disabled": false,
+                "fixed": ""
+            },
+            {
+                "key": "creatorDebut",
+                "name": "Creator Debut Time",
+                "checked": true,
+                "disabled": false,
+                "fixed": ""
+            },
+            {
+                "key": "unit_price",
+                "name": "Avg. Unit Price",
+                "checked": true,
+                "disabled": false,
+                "fixed": ""
+            },
+            {
+                "key": "video_engagement_rate",
+                "name": "Engagement Rate",
+                "checked": true,
+                "disabled": false,
+                "fixed": ""
+            }
+        ]
+    },
+    "message": null,
+    "cached": null,
+    "code": null
+}

@@ -1,0 +1,15 @@
+{
+    "success": true,
+    "data": {
+        "grayModules": {
+            "pilot": true,
+            "picSearch": true,
+            "search365": true,
+            "product_text_search": false,
+            "picSearchAuth": false
+        }
+    },
+    "message": null,
+    "cached": null,
+    "code": null
+}

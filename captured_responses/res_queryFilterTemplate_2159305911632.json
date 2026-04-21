@@ -1,0 +1,759 @@
+{
+    "success": true,
+    "data": [
+        {
+            "name": "Revenue Filters",
+            "children": [
+                {
+                    "key": "creator.filter.revenue",
+                    "name": "Revenue",
+                    "customEnable": false,
+                    "type": "CUSTOM_RANGE",
+                    "icon": "https://d149xzut2sq6e3.cloudfront.net/upload/6ea4b55a.png",
+                    "selectedIcon": "https://d149xzut2sq6e3.cloudfront.net/upload/92ca2968.png",
+                    "isCurrency": true,
+                    "tip": "",
+                    "options": [
+                        {
+                            "value": "",
+                            "label": "All",
+                            "disable": false,
+                            "selected": false,
+                            "tip": null,
+                            "isNew": null
+                        },
+                        {
+                            "value": "<2500000",
+                            "label": "<2500000",
+                            "disable": false,
+                            "selected": false,
+                            "tip": null,
+                            "isNew": null
+                        },
+                        {
+                            "value": "2500000-25000000",
+                            "label": "2500000-25000000",
+                            "disable": false,
+                            "selected": false,
+                            "tip": null,
+                            "isNew": null
+                        },
+                        {
+                            "value": "25000000-250000000",
+                            "label": "25000000-250000000",
+                            "disable": false,
+                            "selected": false,
+                            "tip": null,
+                            "isNew": null
+                        },
+                        {
+                            "value": ">250000000",
+                            "label": ">250000000",
+                            "disable": false,
+                            "selected": false,
+                            "tip": null,
+                            "isNew": null
+                        }
+                    ],
+                    "isNew": false,
+                    "unit": null,
+                    "minValue": null,
+                    "maxValue": null
+                },
+                {
+                    "key": "creator.filter.content_type",
+                    "name": "Revenue Source",
+                    "customEnable": false,
+                    "type": "",
+                    "icon": "https://d149xzut2sq6e3.cloudfront.net/upload/ec68171e.png",
+                    "selectedIcon": "https://d149xzut2sq6e3.cloudfront.net/upload/00df2578.png",
+                    "isCurrency": null,
+                    "tip": null,
+                    "options": [
+                        {
+                            "value": "",
+                            "label": "All",
+                            "disable": false,
+                            "selected": false,
+                            "tip": null,
+                            "isNew": null
+                        },
+                        {
+                            "value": "VIDEO",
+                            "label": "Video",
+                            "disable": false,
+                            "selected": false,
+                            "tip": null,
+                            "isNew": null
+                        },
+                        {
+                            "value": "LIVE",
+                            "label": "Live",
+                            "disable": false,
+                            "selected": false,
+                            "tip": null,
+                            "isNew": null
+                        }
+                    ],
+                    "isNew": false,
+                    "unit": null,
+                    "minValue": null,
+                    "maxValue": null
+                },
+                {
+                    "key": "global.filter.revenue_trend",
+                    "name": "Revenue Trend",
+                    "customEnable": false,
+                    "type": "",
+                    "icon": "https://d149xzut2sq6e3.cloudfront.net/upload/e2c2d498.png",
+                    "selectedIcon": "https://d149xzut2sq6e3.cloudfront.net/upload/2a9eeb70.png",
+                    "isCurrency": null,
+                    "tip": null,
+                    "options": [
+                        {
+                            "value": "",
+                            "label": "Default",
+                            "disable": false,
+                            "selected": false,
+                            "tip": null,
+                            "isNew": null
+                        },
+                        {
+                            "value": "GROWING",
+                            "label": "Growing",
+                            "disable": false,
+                            "selected": false,
+                            "tip": "Filter out creators that are still experiencing revenue growth within the target time range, helping you quickly find potential trending creators.",
+                            "isNew": null
+                        }
+                    ],
+                    "isNew": false,
+                    "unit": null,
+                    "minValue": null,
+                    "maxValue": null
+                }
+            ]
+        },
+        {
+            "name": "Advanced",
+            "children": [
+                {
+                    "key": "creator.filter.creator_type",
+                    "name": "Account Type",
+                    "customEnable": false,
+                    "type": "",
+                    "icon": "https://d149xzut2sq6e3.cloudfront.net/upload/398fabdd.png",
+                    "selectedIcon": "https://d149xzut2sq6e3.cloudfront.net/upload/9b3daf5b.png",
+                    "isCurrency": null,
+                    "tip": null,
+                    "options": [
+                        {
+                            "value": "",
+                            "label": "All",
+                            "disable": false,
+                            "selected": false,
+                            "tip": null,
+                            "isNew": null
+                        },
+                        {
+                            "value": "BELONGED_TO_SELLER",
+                            "label": "Seller Operated",
+                            "disable": false,
+                            "selected": false,
+                            "tip": null,
+                            "isNew": null
+                        },
+                        {
+                            "value": "INDEPENDENT",
+                            "label": "Independent",
+                            "disable": false,
+                            "selected": false,
+                            "tip": null,
+                            "isNew": null
+                        }
+                    ],
+                    "isNew": false,
+                    "unit": null,
+                    "minValue": null,
+                    "maxValue": null
+                },
+                {
+                    "key": "creator.filter.followers",
+                    "name": "Followers",
+                    "customEnable": false,
+                    "type": "CUSTOM_RANGE",
+                    "icon": "https://d149xzut2sq6e3.cloudfront.net/upload/b9cb5751.png",
+                    "selectedIcon": "https://d149xzut2sq6e3.cloudfront.net/upload/882dcda6.png",
+                    "isCurrency": null,
+                    "tip": "Creator's Latest Follower Count (as of yesterday)",
+                    "options": [
+                        {
+                            "value": "",
+                            "label": "All",
+                            "disable": false,
+                            "selected": false,
+                            "tip": null,
+                            "isNew": null
+                        },
+                        {
+                            "value": "<50000",
+                            "label": "<50000",
+                            "disable": false,
+                            "selected": false,
+                            "tip": null,
+                            "isNew": null
+                        },
+                        {
+                            "value": "50000-500000",
+                            "label": "50000-500000",
+                            "disable": false,
+                            "selected": false,
+                            "tip": null,
+                            "isNew": null
+                        },
+                        {
+                            "value": "500000-1000000",
+                            "label": "500000-1000000",
+                            "disable": false,
+                            "selected": false,
+                            "tip": null,
+                            "isNew": null
+                        },
+                        {
+                            "value": ">1000000",
+                            "label": ">1000000",
+                            "disable": false,
+                            "selected": false,
+                            "tip": null,
+                            "isNew": null
+                        }
+                    ],
+                    "isNew": false,
+                    "unit": null,
+                    "minValue": null,
+                    "maxValue": null
+                },
+                {
+                    "key": "creator.filter.video_engagement_rate",
+                    "name": "Engagement Rate",
+                    "customEnable": false,
+                    "type": "CUSTOM_RANGE",
+                    "icon": "https://d149xzut2sq6e3.cloudfront.net/upload/b0bf48e5.png",
+                    "selectedIcon": "https://d149xzut2sq6e3.cloudfront.net/upload/49a47310.png",
+                    "isCurrency": null,
+                    "tip": null,
+                    "options": [
+                        {
+                            "value": "",
+                            "label": "All",
+                            "disable": false,
+                            "selected": false,
+                            "tip": null,
+                            "isNew": null
+                        },
+                        {
+                            "value": "0-8",
+                            "label": "0-8",
+                            "disable": false,
+                            "selected": false,
+                            "tip": null,
+                            "isNew": null
+                        },
+                        {
+                            "value": "8-20",
+                            "label": "8-20",
+                            "disable": false,
+                            "selected": false,
+                            "tip": null,
+                            "isNew": null
+                        },
+                        {
+                            "value": ">20",
+                            "label": ">20",
+                            "disable": false,
+                            "selected": false,
+                            "tip": null,
+                            "isNew": null
+                        }
+                    ],
+                    "isNew": false,
+                    "unit": "%",
+                    "minValue": null,
+                    "maxValue": null
+                },
+                {
+                    "key": "creator.filter.creator_content",
+                    "name": "Creator Contact",
+                    "customEnable": false,
+                    "type": "MULTI_SELECT",
+                    "icon": "https://d149xzut2sq6e3.cloudfront.net/upload/bb91b889.png",
+                    "selectedIcon": "https://d149xzut2sq6e3.cloudfront.net/upload/8b359dfa.png",
+                    "isCurrency": null,
+                    "tip": null,
+                    "options": [
+                        {
+                            "value": "",
+                            "label": "All",
+                            "disable": false,
+                            "selected": false,
+                            "tip": null,
+                            "isNew": null
+                        },
+                        {
+                            "value": "ZALO",
+                            "label": "Zalo",
+                            "disable": true,
+                            "selected": false,
+                            "tip": null,
+                            "isNew": null
+                        },
+                        {
+                            "value": "WHATSAPP",
+                            "label": "WhatsApp",
+                            "disable": true,
+                            "selected": false,
+                            "tip": null,
+                            "isNew": null
+                        },
+                        {
+                            "value": "EMAIL",
+                            "label": "Email",
+                            "disable": true,
+                            "selected": false,
+                            "tip": null,
+                            "isNew": null
+                        },
+                        {
+                            "value": "FACEBOOK",
+                            "label": "Facebook",
+                            "disable": true,
+                            "selected": false,
+                            "tip": null,
+                            "isNew": null
+                        },
+                        {
+                            "value": "INSTAGRAM",
+                            "label": "Instagram",
+                            "disable": true,
+                            "selected": false,
+                            "tip": null,
+                            "isNew": null
+                        },
+                        {
+                            "value": "YOUTUBE",
+                            "label": "YouTube",
+                            "disable": true,
+                            "selected": false,
+                            "tip": null,
+                            "isNew": null
+                        },
+                        {
+                            "value": "TWITTER",
+                            "label": "X(Twitter)",
+                            "disable": true,
+                            "selected": false,
+                            "tip": null,
+                            "isNew": null
+                        }
+                    ],
+                    "isNew": false,
+                    "unit": null,
+                    "minValue": null,
+                    "maxValue": null
+                },
+                {
+                    "key": "creator.filter.mcn_status",
+                    "name": "MCN Status",
+                    "customEnable": false,
+                    "type": "",
+                    "icon": "https://d149xzut2sq6e3.cloudfront.net/upload/1ee1635f.png",
+                    "selectedIcon": "https://d149xzut2sq6e3.cloudfront.net/upload/ac6ae0ca.png",
+                    "isCurrency": null,
+                    "tip": null,
+                    "options": [
+                        {
+                            "value": "",
+                            "label": "All",
+                            "disable": false,
+                            "selected": false,
+                            "tip": null,
+                            "isNew": null
+                        },
+                        {
+                            "value": "SIGNED",
+                            "label": "Signed",
+                            "disable": true,
+                            "selected": false,
+                            "tip": null,
+                            "isNew": null
+                        },
+                        {
+                            "value": "NOT_SIGNED",
+                            "label": "Not Signed",
+                            "disable": true,
+                            "selected": false,
+                            "tip": null,
+                            "isNew": null
+                        }
+                    ],
+                    "isNew": false,
+                    "unit": null,
+                    "minValue": null,
+                    "maxValue": null
+                },
+                {
+                    "key": "creator.filter.ad.creator_debut",
+                    "name": "Creator Debut Time",
+                    "customEnable": false,
+                    "type": "",
+                    "icon": "https://d149xzut2sq6e3.cloudfront.net/upload/7f62b82a.png",
+                    "selectedIcon": "https://d149xzut2sq6e3.cloudfront.net/upload/56add37e.png",
+                    "isCurrency": null,
+                    "tip": "Creator's first video publish date",
+                    "options": [
+                        {
+                            "value": "",
+                            "label": "All",
+                            "disable": false,
+                            "selected": false,
+                            "tip": null,
+                            "isNew": null
+                        },
+                        {
+                            "value": "<4",
+                            "label": "Within 3 Days",
+                            "disable": false,
+                            "selected": false,
+                            "tip": null,
+                            "isNew": null
+                        },
+                        {
+                            "value": "<8",
+                            "label": "Within 7 Days",
+                            "disable": false,
+                            "selected": false,
+                            "tip": null,
+                            "isNew": null
+                        },
+                        {
+                            "value": "<31",
+                            "label": "Within 30 Days",
+                            "disable": false,
+                            "selected": false,
+                            "tip": null,
+                            "isNew": null
+                        },
+                        {
+                            "value": ">30",
+                            "label": "Not Within 30 Days",
+                            "disable": false,
+                            "selected": false,
+                            "tip": null,
+                            "isNew": null
+                        }
+                    ],
+                    "isNew": false,
+                    "unit": null,
+                    "minValue": null,
+                    "maxValue": null
+                },
+                {
+                    "key": "creator.filter.unit_price",
+                    "name": "Avg. Unit Price",
+                    "customEnable": false,
+                    "type": "CUSTOM_RANGE",
+                    "icon": "https://d149xzut2sq6e3.cloudfront.net/upload/748e2154.png",
+                    "selectedIcon": "https://d149xzut2sq6e3.cloudfront.net/upload/9d9368e6.png",
+                    "isCurrency": true,
+                    "tip": null,
+                    "options": [
+                        {
+                            "value": "",
+                            "label": "All",
+                            "disable": false,
+                            "selected": false,
+                            "tip": null,
+                            "isNew": null
+                        },
+                        {
+                            "value": "<200000",
+                            "label": "<200000",
+                            "disable": false,
+                            "selected": false,
+                            "tip": null,
+                            "isNew": null
+                        },
+                        {
+                            "value": "200000-10000000",
+                            "label": "200000-10000000",
+                            "disable": false,
+                            "selected": false,
+                            "tip": null,
+                            "isNew": null
+                        },
+                        {
+                            "value": "10000000-100000000",
+                            "label": "10000000-100000000",
+                            "disable": false,
+                            "selected": false,
+                            "tip": null,
+                            "isNew": null
+                        },
+                        {
+                            "value": ">100000000",
+                            "label": ">100000000",
+                            "disable": false,
+                            "selected": false,
+                            "tip": null,
+                            "isNew": null
+                        }
+                    ],
+                    "isNew": false,
+                    "unit": null,
+                    "minValue": null,
+                    "maxValue": null
+                }
+            ]
+        },
+        {
+            "name": "fans_profile",
+            "children": [
+                {
+                    "key": "creator.filter.follower_age",
+                    "name": "Age",
+                    "customEnable": false,
+                    "type": "",
+                    "icon": "https://d149xzut2sq6e3.cloudfront.net/upload/d836776e.png",
+                    "selectedIcon": "https://d149xzut2sq6e3.cloudfront.net/upload/b0f71873.png",
+                    "isCurrency": null,
+                    "tip": "The age group with the highest percentage of the creator's followers.",
+                    "options": [
+                        {
+                            "value": "",
+                            "label": "All",
+                            "disable": false,
+                            "selected": false,
+                            "tip": null,
+                            "isNew": null
+                        },
+                        {
+                            "value": "18-24",
+                            "label": "Majority 18-24",
+                            "disable": false,
+                            "selected": false,
+                            "tip": null,
+                            "isNew": null
+                        },
+                        {
+                            "value": "25-34",
+                            "label": "Majority 25-34",
+                            "disable": false,
+                            "selected": false,
+                            "tip": null,
+                            "isNew": null
+                        },
+                        {
+                            "value": "35-44",
+                            "label": "Majority 35-44",
+                            "disable": false,
+                            "selected": false,
+                            "tip": null,
+                            "isNew": null
+                        },
+                        {
+                            "value": "45-54",
+                            "label": "Majority 45-54",
+                            "disable": false,
+                            "selected": false,
+                            "tip": null,
+                            "isNew": null
+                        },
+                        {
+                            "value": "55+",
+                            "label": "Majority 55+",
+                            "disable": false,
+                            "selected": false,
+                            "tip": null,
+                            "isNew": null
+                        }
+                    ],
+                    "isNew": false,
+                    "unit": null,
+                    "minValue": null,
+                    "maxValue": null
+                },
+                {
+                    "key": "creator.filter.follower_gender",
+                    "name": "Gender",
+                    "customEnable": false,
+                    "type": "",
+                    "icon": "https://d149xzut2sq6e3.cloudfront.net/upload/b52cb842.png",
+                    "selectedIcon": "https://d149xzut2sq6e3.cloudfront.net/upload/0a38e4bc.png",
+                    "isCurrency": null,
+                    "tip": null,
+                    "options": [
+                        {
+                            "value": "",
+                            "label": "All",
+                            "disable": false,
+                            "selected": false,
+                            "tip": null,
+                            "isNew": null
+                        },
+                        {
+                            "value": "1",
+                            "label": "Majority Male (50%+)",
+                            "disable": false,
+                            "selected": false,
+                            "tip": null,
+                            "isNew": null
+                        },
+                        {
+                            "value": "2",
+                            "label": "Majority Female (50%+)",
+                            "disable": false,
+                            "selected": false,
+                            "tip": null,
+                            "isNew": null
+                        }
+                    ],
+                    "isNew": false,
+                    "unit": null,
+                    "minValue": null,
+                    "maxValue": null
+                },
+                {
+                    "key": "creator.filter.follower_language",
+                    "name": "Languages",
+                    "customEnable": false,
+                    "type": "",
+                    "icon": "https://d149xzut2sq6e3.cloudfront.net/upload/b0992b52.png",
+                    "selectedIcon": "https://d149xzut2sq6e3.cloudfront.net/upload/6e743f33.png",
+                    "isCurrency": null,
+                    "tip": "The language most familiar to the creator's followers.",
+                    "options": [
+                        {
+                            "value": "",
+                            "label": "All",
+                            "disable": false,
+                            "selected": false,
+                            "tip": null,
+                            "isNew": null
+                        },
+                        {
+                            "value": "en-US",
+                            "label": "en-US",
+                            "disable": false,
+                            "selected": false,
+                            "tip": null,
+                            "isNew": null
+                        },
+                        {
+                            "value": "ja-JP",
+                            "label": "ja-JP",
+                            "disable": false,
+                            "selected": false,
+                            "tip": null,
+                            "isNew": null
+                        },
+                        {
+                            "value": "es-ES",
+                            "label": "es-ES",
+                            "disable": false,
+                            "selected": false,
+                            "tip": null,
+                            "isNew": null
+                        },
+                        {
+                            "value": "fr-FR",
+                            "label": "fr-FR",
+                            "disable": false,
+                            "selected": false,
+                            "tip": null,
+                            "isNew": null
+                        },
+                        {
+                            "value": "de-DE",
+                            "label": "de-DE",
+                            "disable": false,
+                            "selected": false,
+                            "tip": null,
+                            "isNew": null
+                        },
+                        {
+                            "value": "it-IT",
+                            "label": "it-IT",
+                            "disable": false,
+                            "selected": false,
+                            "tip": null,
+                            "isNew": null
+                        },
+                        {
+                            "value": "ru-RU",
+                            "label": "ru-RU",
+                            "disable": false,
+                            "selected": false,
+                            "tip": null,
+                            "isNew": null
+                        },
+                        {
+                            "value": "zh-CN",
+                            "label": "zh-CN",
+                            "disable": false,
+                            "selected": false,
+                            "tip": null,
+                            "isNew": null
+                        },
+                        {
+                            "value": "id-ID",
+                            "label": "id-ID",
+                            "disable": false,
+                            "selected": false,
+                            "tip": null,
+                            "isNew": null
+                        },
+                        {
+                            "value": "th-TH",
+                            "label": "th-TH",
+                            "disable": false,
+                            "selected": false,
+                            "tip": null,
+                            "isNew": null
+                        },
+                        {
+                            "value": "ms-MY",
+                            "label": "ms-MY",
+                            "disable": false,
+                            "selected": false,
+                            "tip": null,
+                            "isNew": null
+                        },
+                        {
+                            "value": "pt-PT",
+                            "label": "pt-PT",
+                            "disable": false,
+                            "selected": false,
+                            "tip": null,
+                            "isNew": null
+                        },
+                        {
+                            "value": "ar",
+                            "label": "ar",
+                            "disable": false,
+                            "selected": false,
+                            "tip": null,
+                            "isNew": null
+                        }
+                    ],
+                    "isNew": false,
+                    "unit": null,
+                    "minValue": null,
+                    "maxValue": null
+                }
+            ]
+        }
+    ],
+    "message": null,
+    "cached": null,
+    "code": null
+}

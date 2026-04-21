@@ -1,0 +1,1832 @@
+{
+    "success": true,
+    "data": {
+        "creator": [
+            {
+                "score": 11.744404,
+                "highlight": [
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "Douglas L <span class=\"highlight\">Rea</span> Shop"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 0.0,
+                "creator_uid": "7281625916328395822",
+                "creator_handle": "user3168798021761",
+                "creator_nickname": "Douglas L Rea Shop"
+            },
+            {
+                "score": 9.456532,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">realpewpew</span>"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 143054623.97277164,
+                "creator_uid": "7185560290230420482",
+                "creator_handle": "realpewpew",
+                "creator_nickname": "Tạp Hóa PewPew"
+            },
+            {
+                "score": 8.970756,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">lorealparis_vn</span>"
+                        ]
+                    },
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "<span class=\"highlight\">L'oreal</span> Paris Việt Nam"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 46744012.411891825,
+                "creator_uid": "6899698476596347906",
+                "creator_handle": "lorealparis_vn",
+                "creator_nickname": "L'oreal Paris Việt Nam"
+            },
+            {
+                "score": 8.919059,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">dreamevietnamofficial</span>"
+                        ]
+                    },
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "<span class=\"highlight\">Dreame</span> Vietnam"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 41498127.04295925,
+                "creator_uid": "7103872564459521025",
+                "creator_handle": "dreamevietnamofficial",
+                "creator_nickname": "Dreame Vietnam"
+            },
+            {
+                "score": 8.677887,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">phanphuonglivestream</span>"
+                        ]
+                    },
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "Phương Bắc <span class=\"highlight\">Livestream</span>"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 23815362.41847443,
+                "creator_uid": "6877078534125913090",
+                "creator_handle": "phanphuonglivestream",
+                "creator_nickname": "Phương Bắc Livestream"
+            },
+            {
+                "score": 8.448285,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">dreamemaylausan</span>"
+                        ]
+                    },
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "<span class=\"highlight\">Dreame</span> Việt Nam - Máy Lau Sàn"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 14036380.479526946,
+                "creator_uid": "7302658569856992258",
+                "creator_handle": "dreamemaylausan",
+                "creator_nickname": "Dreame Việt Nam - Máy Lau Sàn"
+            },
+            {
+                "score": 8.416143,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">lyhouse.real</span>"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 13035070.6753759,
+                "creator_uid": "7364787702342845441",
+                "creator_handle": "lyhouse.real",
+                "creator_nickname": "Ly's House"
+            },
+            {
+                "score": 8.234683,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">duycom.real</span>"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 8583279.644147716,
+                "creator_uid": "7122383326959617051",
+                "creator_handle": "duycom.real",
+                "creator_nickname": "Duy Cốm 🌾"
+            },
+            {
+                "score": 8.122485,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">van.korea</span>"
+                        ]
+                    },
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "Vân <span class=\"highlight\">Korea</span>"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 6629102.137355035,
+                "creator_uid": "7105302385317610501",
+                "creator_handle": "van.korea",
+                "creator_nickname": "Vân Korea"
+            },
+            {
+                "score": 8.118823,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">nguyencream_00</span>"
+                        ]
+                    },
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "Ngọc Nguyên <span class=\"highlight\">Cream</span>"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 6573448.873850483,
+                "creator_uid": "7425860688561816583",
+                "creator_handle": "nguyencream_00",
+                "creator_nickname": "Ngọc Nguyên Cream"
+            },
+            {
+                "score": 8.018711,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">realxoaipham</span>"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 5220131.918272274,
+                "creator_uid": "7337226558790943762",
+                "creator_handle": "realxoaipham",
+                "creator_nickname": "Xoài Phậm"
+            },
+            {
+                "score": 7.979847,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">20decemberkorea</span>"
+                        ]
+                    },
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "20 December <span class=\"highlight\">Korea</span>"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 4773281.845662562,
+                "creator_uid": "6681946163190973441",
+                "creator_handle": "20decemberkorea",
+                "creator_nickname": "20 December Korea"
+            },
+            {
+                "score": 7.9645953,
+                "highlight": [
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "Châm Anh Nguyễn <span class=\"highlight\">Livestream</span>"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 4608559.0477739405,
+                "creator_uid": "6602057264785096705",
+                "creator_handle": "nca.shop",
+                "creator_nickname": "Châm Anh Nguyễn Livestream"
+            },
+            {
+                "score": 7.9340425,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">realmen68</span>"
+                        ]
+                    },
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "<span class=\"highlight\">Realmen</span>"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 4295485.513945337,
+                "creator_uid": "6784435501677708289",
+                "creator_handle": "realmen68",
+                "creator_nickname": "Realmen"
+            },
+            {
+                "score": 7.9216404,
+                "highlight": [
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "Cataria-Mic thu âm <span class=\"highlight\">Livestream</span>"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 4174555.467877075,
+                "creator_uid": "7144630590041359386",
+                "creator_handle": "cataria.vn",
+                "creator_nickname": "Cataria-Mic thu âm Livestream"
+            },
+            {
+                "score": 7.885686,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">lorealparismakeup_vn</span>"
+                        ]
+                    },
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "<span class=\"highlight\">L’Oreal</span> Paris Makeup VN"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 3842869.7583287056,
+                "creator_uid": "7276835161840206856",
+                "creator_handle": "lorealparismakeup_vn",
+                "creator_nickname": "L’Oreal Paris Makeup VN"
+            },
+            {
+                "score": 7.854294,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">dtvlogreal</span>"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 3574899.4270402426,
+                "creator_uid": "6836760955600471041",
+                "creator_handle": "dtvlogreal",
+                "creator_nickname": "DT Vlog"
+            },
+            {
+                "score": 7.852581,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">lientienich.real</span>"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 3560826.8029551427,
+                "creator_uid": "7128318498182726683",
+                "creator_handle": "lientienich.real",
+                "creator_nickname": "Liên Tiện Ích"
+            },
+            {
+                "score": 7.836701,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">tungduonggreat</span>"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 3432977.822658725,
+                "creator_uid": "7079722047202640897",
+                "creator_handle": "tungduonggreat",
+                "creator_nickname": "Tùng Dương MP"
+            },
+            {
+                "score": 7.834537,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">phuonganhreal</span>.05"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 3415916.096698136,
+                "creator_uid": "7212584935877100571",
+                "creator_handle": "phuonganhreal.05",
+                "creator_nickname": "Võ Trần Phương Anh"
+            },
+            {
+                "score": 7.8228273,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">lorealprovn</span>"
+                        ]
+                    },
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "<span class=\"highlight\">L'Oréal</span> Professionnel Việt Nam"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 3325042.523959472,
+                "creator_uid": "7287596620682003457",
+                "creator_handle": "lorealprovn",
+                "creator_nickname": "L'Oréal Professionnel Việt Nam"
+            },
+            {
+                "score": 7.8114057,
+                "highlight": [
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "<span class=\"highlight\">livestreamnhunghuongnoi</span>"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 3238735.6704465365,
+                "creator_uid": "6667824086452535298",
+                "creator_handle": "hnil07review",
+                "creator_nickname": "livestreamnhunghuongnoi"
+            },
+            {
+                "score": 7.8091717,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">realmenluxury</span>"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 3222119.68937011,
+                "creator_uid": "7364769318074795013",
+                "creator_handle": "realmenluxury",
+                "creator_nickname": "𝑫𝒊𝒆̣̂𝒖 𝑻𝒉𝒖𝒚́"
+            },
+            {
+                "score": 7.7898765,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">lamthidailylivestream</span>"
+                        ]
+                    },
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "Lâm Thị Daily <span class=\"highlight\">Livestream</span>"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 3082097.5931957327,
+                "creator_uid": "6706700449716798465",
+                "creator_handle": "lamthidailylivestream",
+                "creator_nickname": "Lâm Thị Daily Livestream"
+            },
+            {
+                "score": 7.7889194,
+                "highlight": [
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "<span class=\"highlight\">Mamidambaulivestream</span>"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 3075312.5686345003,
+                "creator_uid": "7244083717391123462",
+                "creator_handle": "mamidambau",
+                "creator_nickname": "Mamidambaulivestream"
+            },
+            {
+                "score": 7.75527,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">lytech.real</span>"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 2846034.243089798,
+                "creator_uid": "7528253304880301074",
+                "creator_handle": "lytech.real",
+                "creator_nickname": "Ly’s Tech"
+            },
+            {
+                "score": 7.726424,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">baohan_livestream5</span>"
+                        ]
+                    },
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "<span class=\"highlight\">BaoHan.Livestream</span>"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 2663140.915238057,
+                "creator_uid": "7446820852782826512",
+                "creator_handle": "baohan_livestream5",
+                "creator_nickname": "BaoHan.Livestream"
+            },
+            {
+                "score": 7.6933446,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">trungkien.korea007</span>"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 2467826.410486033,
+                "creator_uid": "6609066195261276161",
+                "creator_handle": "trungkien.korea007",
+                "creator_nickname": "Trung Kiên"
+            },
+            {
+                "score": 7.682096,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">real.daily1</span>"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 2404727.0347913215,
+                "creator_uid": "6666371855446884354",
+                "creator_handle": "real.daily1",
+                "creator_nickname": "Phúc Daily"
+            },
+            {
+                "score": 7.680185,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">meoconcreamcake</span>"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 2394168.614436256,
+                "creator_uid": "66647478841",
+                "creator_handle": "meoconcreamcake",
+                "creator_nickname": "nấm hương"
+            },
+            {
+                "score": 7.669523,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">hoanhathuynhreaction</span>"
+                        ]
+                    },
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "Hoa Nhật Huỳnh <span class=\"highlight\">Reaction</span>"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 2336107.2661202415,
+                "creator_uid": "7220185568259572763",
+                "creator_handle": "hoanhathuynhreaction",
+                "creator_nickname": "Hoa Nhật Huỳnh Reaction"
+            },
+            {
+                "score": 7.6186166,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">we.dream1</span>"
+                        ]
+                    },
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "WE <span class=\"highlight\">DREAM</span> - ĐIỆN MÁY TRẢ GIÁ"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 2077716.7736728054,
+                "creator_uid": "7402858685876438036",
+                "creator_handle": "we.dream1",
+                "creator_nickname": "WE DREAM - ĐIỆN MÁY TRẢ GIÁ"
+            },
+            {
+                "score": 7.5791173,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">real__lechii</span>"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 1897087.1670897698,
+                "creator_uid": "6524204867643293698",
+                "creator_handle": "real__lechii",
+                "creator_nickname": "Le Chi Dang"
+            },
+            {
+                "score": 7.570868,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">threadvn</span>"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 1861391.7209346965,
+                "creator_uid": "7529628784230122497",
+                "creator_handle": "threadvn",
+                "creator_nickname": "nghiện đọc comment"
+            },
+            {
+                "score": 7.551653,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">breastmumofficial</span>"
+                        ]
+                    },
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "<span class=\"highlight\">Breast</span> Mum - Chính Hãng"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 1780830.5613648207,
+                "creator_uid": "7275565094167086088",
+                "creator_handle": "breastmumofficial",
+                "creator_nickname": "Breast Mum - Chính Hãng"
+            },
+            {
+                "score": 7.520537,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">mypham.hankorea</span>"
+                        ]
+                    },
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "Hân <span class=\"highlight\">Korea</span>"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 1657702.4321108568,
+                "creator_uid": "7127577106968986651",
+                "creator_handle": "mypham.hankorea",
+                "creator_nickname": "Hân Korea"
+            },
+            {
+                "score": 7.5053043,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">tramanhlivestream</span>"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 1600567.405133046,
+                "creator_uid": "7549074860787942407",
+                "creator_handle": "tramanhlivestream",
+                "creator_nickname": "Trâm Anh Daily"
+            },
+            {
+                "score": 7.5046825,
+                "highlight": [
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "Ngân kemm <span class=\"highlight\">cream</span>"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 1598278.0091647138,
+                "creator_uid": "7201367001562219547",
+                "creator_handle": "ngankem789",
+                "creator_nickname": "Ngân kemm cream"
+            },
+            {
+                "score": 7.502223,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">realman254</span>"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 1589252.7351949688,
+                "creator_uid": "6542669405524180993",
+                "creator_handle": "realman254",
+                "creator_nickname": "Ông chú U30"
+            },
+            {
+                "score": 7.481075,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">duykoreastore</span>"
+                        ]
+                    },
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "<span class=\"highlight\">duykoreastore</span>"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 1513716.951249704,
+                "creator_uid": "7443653933094110226",
+                "creator_handle": "duykoreastore",
+                "creator_nickname": "duykoreastore"
+            },
+            {
+                "score": 7.4768224,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">hoangrealm6</span>"
+                        ]
+                    },
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "<span class=\"highlight\">Hoangreal</span>"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 1498967.2184626616,
+                "creator_uid": "7125233617887265818",
+                "creator_handle": "hoangrealm6",
+                "creator_nickname": "Hoangreal"
+            },
+            {
+                "score": 7.4648743,
+                "highlight": [
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "Bỉm Bejoyle <span class=\"highlight\">Dream</span> Store"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 1458290.4422312037,
+                "creator_uid": "7274731850869621765",
+                "creator_handle": "bejoyle.vn",
+                "creator_nickname": "Bỉm Bejoyle Dream Store"
+            },
+            {
+                "score": 7.4629154,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">maitrangreal</span>"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 1451728.017701797,
+                "creator_uid": "7114290691371025410",
+                "creator_handle": "maitrangreal",
+                "creator_nickname": "𝓜𝓪𝓲 𝓣𝓻𝓪𝓷𝓰"
+            },
+            {
+                "score": 7.4528213,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">hoang.real.review</span>"
+                        ]
+                    },
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "Hoàng <span class=\"highlight\">Real</span> Review"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 1418375.3358880987,
+                "creator_uid": "7419217333895382024",
+                "creator_handle": "hoang.real.review",
+                "creator_nickname": "Hoàng Real Review"
+            },
+            {
+                "score": 7.447565,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">therabreathvn</span>"
+                        ]
+                    },
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "<span class=\"highlight\">TheraBreath</span> Vietnam"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 1401312.1478923562,
+                "creator_uid": "7472575932620866567",
+                "creator_handle": "therabreathvn",
+                "creator_nickname": "TheraBreath Vietnam"
+            },
+            {
+                "score": 7.4378657,
+                "highlight": [
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "Tuyền Mập <span class=\"highlight\">Real</span>"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 1370363.0655793012,
+                "creator_uid": "6736477639147979777",
+                "creator_handle": "tuyenmap2307",
+                "creator_nickname": "Tuyền Mập Real"
+            },
+            {
+                "score": 7.424206,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">thaopham.livestream</span>"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 1327931.6198180665,
+                "creator_uid": "6922307669911569410",
+                "creator_handle": "thaopham.livestream",
+                "creator_nickname": "Thảo đây"
+            },
+            {
+                "score": 7.4007535,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">c.dn.threads</span>"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 1258124.324944258,
+                "creator_uid": "7383312748829410322",
+                "creator_handle": "c.dn.threads",
+                "creator_nickname": "Cư Dân Sợi Chỉ 🧶"
+            },
+            {
+                "score": 7.392944,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">lecaonhatduyreal</span>.0905"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 1235701.7222773659,
+                "creator_uid": "7160513077766030337",
+                "creator_handle": "lecaonhatduyreal.0905",
+                "creator_nickname": "Duy Cao ᴏꜰꜰɪᴄɪᴀʟ♕"
+            },
+            {
+                "score": 7.319006,
+                "highlight": [
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "Minhh Tinhh <span class=\"highlight\">Real</span>"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 1042259.093495592,
+                "creator_uid": "6734741289809691650",
+                "creator_handle": "phanduyminh2109",
+                "creator_nickname": "Minhh Tinhh Real"
+            },
+            {
+                "score": 7.318354,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">thuthuystorekorea</span>"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 1040696.3892819267,
+                "creator_uid": "7421148975053849617",
+                "creator_handle": "thuthuystorekorea",
+                "creator_nickname": "duyanhstore84"
+            },
+            {
+                "score": 7.313224,
+                "highlight": [
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "<span class=\"highlight\">Mona.livestream</span>"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 1028474.3256085847,
+                "creator_uid": "7501012067601007633",
+                "creator_handle": "monahauls",
+                "creator_nickname": "Mona.livestream"
+            },
+            {
+                "score": 7.3104067,
+                "highlight": [
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "Mỹ Anh <span class=\"highlight\">Korea</span> Ohui Whoo"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 1021824.5165864567,
+                "creator_uid": "7421370637102466055",
+                "creator_handle": "my.anh.cosmetics",
+                "creator_nickname": "Mỹ Anh Korea Ohui Whoo"
+            },
+            {
+                "score": 7.303975,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">huesamkorea</span>"
+                        ]
+                    },
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "Huệ Sâm <span class=\"highlight\">Korea</span>"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 1006803.8859020354,
+                "creator_uid": "6618150232444485633",
+                "creator_handle": "huesamkorea",
+                "creator_nickname": "Huệ Sâm Korea"
+            },
+            {
+                "score": 7.290469,
+                "highlight": [
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "<span class=\"highlight\">minhekorea</span> shop"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 975975.796239149,
+                "creator_uid": "6890146546517738497",
+                "creator_handle": "vanbibokids",
+                "creator_nickname": "minhekorea shop"
+            },
+            {
+                "score": 7.276838,
+                "highlight": [
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "KHÚC THÊM-MIC <span class=\"highlight\">LIVESTREAM</span>"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 945817.5580540604,
+                "creator_uid": "6897936921211175937",
+                "creator_handle": "khucthem_shop",
+                "creator_nickname": "KHÚC THÊM-MIC LIVESTREAM"
+            },
+            {
+                "score": 7.2765174,
+                "highlight": [
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "BIN <span class=\"highlight\">KOREA</span>"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 945120.8410657017,
+                "creator_uid": "7132024425231025154",
+                "creator_handle": "idthienha198",
+                "creator_nickname": "BIN KOREA"
+            },
+            {
+                "score": 7.2626038,
+                "highlight": [
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "<span class=\"highlight\">Real</span> lure"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 915320.81650376,
+                "creator_uid": "7486844546861892626",
+                "creator_handle": "anh.tht.fishing",
+                "creator_nickname": "Real lure"
+            },
+            {
+                "score": 7.255703,
+                "highlight": [
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "MÈO MỠ BIGSIZE <span class=\"highlight\">LIVEStream</span>"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 900892.4193291059,
+                "creator_uid": "7192983821809288218",
+                "creator_handle": "meomobigsizesaigon",
+                "creator_nickname": "MÈO MỠ BIGSIZE LIVEStream"
+            },
+            {
+                "score": 7.2438836,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">official.mandukorea</span>"
+                        ]
+                    },
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "Mandu <span class=\"highlight\">Korea</span>"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 876704.9073159328,
+                "creator_uid": "7337894585936643080",
+                "creator_handle": "official.mandukorea",
+                "creator_nickname": "Mandu Korea"
+            },
+            {
+                "score": 7.218261,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">cosen_livestream</span>"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 826476.7020153833,
+                "creator_uid": "7303711011155002376",
+                "creator_handle": "cosen_livestream",
+                "creator_nickname": "Tiệm Giá Rẻ Nè"
+            },
+            {
+                "score": 7.198535,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">bagkoreaa</span>"
+                        ]
+                    },
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "BAG <span class=\"highlight\">KOREA</span> MALL"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 789777.3859985989,
+                "creator_uid": "7405851842490467346",
+                "creator_handle": "bagkoreaa",
+                "creator_nickname": "BAG KOREA MALL"
+            },
+            {
+                "score": 7.188358,
+                "highlight": [
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "Nguyễn Vân <span class=\"highlight\">korea</span>"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 771484.9265246768,
+                "creator_uid": "6811652534252602370",
+                "creator_handle": "vangiadung98",
+                "creator_nickname": "Nguyễn Vân korea"
+            },
+            {
+                "score": 7.168919,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">hankoreabeauty</span>"
+                        ]
+                    },
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "Hân <span class=\"highlight\">Korea</span> 2"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 737715.1415957746,
+                "creator_uid": "7268180492607767558",
+                "creator_handle": "hankoreabeauty",
+                "creator_nickname": "Hân Korea 2"
+            },
+            {
+                "score": 7.1571326,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">nhathuyenkorea.com</span>"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 717963.1990724048,
+                "creator_uid": "7164411188019889153",
+                "creator_handle": "nhathuyenkorea.com",
+                "creator_nickname": "Hằng VALA Beauty"
+            },
+            {
+                "score": 7.1492233,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">curealoe_since1975</span>"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 705006.3534886275,
+                "creator_uid": "7502370265646416913",
+                "creator_handle": "curealoe_since1975",
+                "creator_nickname": "Cure Aloe Việt Nam"
+            },
+            {
+                "score": 7.1466293,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">hiu.real</span>"
+                        ]
+                    },
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "𝙃𝙞𝙚𝙪 <span class=\"highlight\">𝙍𝙚𝙖𝙡</span> [ ᴅᴇᴄᴏʀ ]"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 700807.7523913585,
+                "creator_uid": "7541329093662786568",
+                "creator_handle": "hiu.real",
+                "creator_nickname": "𝙃𝙞𝙚𝙪 𝙍𝙚𝙖𝙡 [ ᴅᴇᴄᴏʀ ]"
+            },
+            {
+                "score": 7.1448507,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">livestreamcut01</span>"
+                        ]
+                    },
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "Review <span class=\"highlight\">Livestream</span>"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 697943.908182851,
+                "creator_uid": "6620732990634934274",
+                "creator_handle": "livestreamcut01",
+                "creator_nickname": "Review Livestream"
+            },
+            {
+                "score": 7.1163,
+                "highlight": [
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "Rachel In Her <span class=\"highlight\">Area</span>"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 653536.5058150865,
+                "creator_uid": "7310837340686959634",
+                "creator_handle": "lamlc52",
+                "creator_nickname": "Rachel In Her Area"
+            },
+            {
+                "score": 7.1083775,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">shopmeobabykorea</span>"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 641722.4893059046,
+                "creator_uid": "7408256612987552785",
+                "creator_handle": "shopmeobabykorea",
+                "creator_nickname": "Shop Mèo Baby"
+            },
+            {
+                "score": 7.104846,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">livestreamcut02</span>"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 636525.342374535,
+                "creator_uid": "7396636794392036359",
+                "creator_handle": "livestreamcut02",
+                "creator_nickname": "Hàng tốt review tốt"
+            },
+            {
+                "score": 7.1009245,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">dreamy_2025</span>"
+                        ]
+                    },
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "<span class=\"highlight\">Dreamy</span> Store."
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 630803.8685706536,
+                "creator_uid": "6674865874232968194",
+                "creator_handle": "dreamy_2025",
+                "creator_nickname": "Dreamy Store."
+            },
+            {
+                "score": 7.096674,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">dkshop23real</span>"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 624659.7588669835,
+                "creator_uid": "6519109316925816833",
+                "creator_handle": "dkshop23real",
+                "creator_nickname": "Hoàng Minh Đạt 👣👣"
+            },
+            {
+                "score": 7.0860734,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">winkoreavn</span>"
+                        ]
+                    },
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "<span class=\"highlight\">WinKorea</span> VietNam"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 609597.3129797046,
+                "creator_uid": "6753451532069143554",
+                "creator_handle": "winkoreavn",
+                "creator_nickname": "WinKorea VietNam"
+            },
+            {
+                "score": 7.0787144,
+                "highlight": [
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "việt anh <span class=\"highlight\">korea</span>"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 599354.7215543448,
+                "creator_uid": "7342006100961100801",
+                "creator_handle": "vietquangphukien",
+                "creator_nickname": "việt anh korea"
+            },
+            {
+                "score": 7.073283,
+                "highlight": [
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "Led 2 tầng <span class=\"highlight\">Dream</span>"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 591906.2643764145,
+                "creator_uid": "7502403537605264390",
+                "creator_handle": "qu.kh.yb",
+                "creator_nickname": "Led 2 tầng Dream"
+            },
+            {
+                "score": 7.0631804,
+                "highlight": [
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "Nhím <span class=\"highlight\">Korea</span> cosmetic"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 578295.633844648,
+                "creator_uid": "6538942245516509186",
+                "creator_handle": "bichhongle_menhim",
+                "creator_nickname": "Nhím Korea cosmetic"
+            },
+            {
+                "score": 7.0592914,
+                "highlight": [
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "<span class=\"highlight\">Nhicream</span>"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 573140.1933118306,
+                "creator_uid": "7412537296745071623",
+                "creator_handle": "nhi_that_tha",
+                "creator_nickname": "Nhicream"
+            },
+            {
+                "score": 7.0558887,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">realxaxiu</span>"
+                        ]
+                    },
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "<span class=\"highlight\">realxaxiu</span>"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 568667.4098035293,
+                "creator_uid": "7321566760044545032",
+                "creator_handle": "realxaxiu",
+                "creator_nickname": "realxaxiu"
+            },
+            {
+                "score": 7.049868,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">lotus.thread.home</span>"
+                        ]
+                    },
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "<span class=\"highlight\">LotusThread</span> Home"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 560838.2905853102,
+                "creator_uid": "7537165543703987208",
+                "creator_handle": "lotus.thread.home",
+                "creator_nickname": "LotusThread Home"
+            },
+            {
+                "score": 7.0290713,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">m.anh.korea.auth</span>"
+                        ]
+                    },
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "Công Ty TNHH Mỹ Anh <span class=\"highlight\">Korea</span>"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 534614.6249862366,
+                "creator_uid": "7524262368563545095",
+                "creator_handle": "m.anh.korea.auth",
+                "creator_nickname": "Công Ty TNHH Mỹ Anh Korea"
+            },
+            {
+                "score": 7.028744,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">reallongr</span>"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 534212.4269041185,
+                "creator_uid": "7279062949737088008",
+                "creator_handle": "reallongr",
+                "creator_nickname": "LongR"
+            },
+            {
+                "score": 7.0225573,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">theminhreal</span>"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 526655.6818614653,
+                "creator_uid": "7442347540277937208",
+                "creator_handle": "theminhreal",
+                "creator_nickname": "THE MINH"
+            },
+            {
+                "score": 7.021085,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">gume.korea</span>"
+                        ]
+                    },
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "<span class=\"highlight\">GUMEKOREA</span> - Gia dụng Hàn Quốc"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 524873.0326477701,
+                "creator_uid": "7208472156232287237",
+                "creator_handle": "gume.korea",
+                "creator_nickname": "GUMEKOREA - Gia dụng Hàn Quốc"
+            },
+            {
+                "score": 7.0199237,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">kieuhanareal</span>"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 523471.5722155776,
+                "creator_uid": "7536941217038664722",
+                "creator_handle": "kieuhanareal",
+                "creator_nickname": "Kiều Hana"
+            },
+            {
+                "score": 7.0138044,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">xtream.tv</span>"
+                        ]
+                    },
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "<span class=\"highlight\">XTREAM</span> ANH EM TV"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 516147.94672304625,
+                "creator_uid": "7270428882599265286",
+                "creator_handle": "xtream.tv",
+                "creator_nickname": "XTREAM ANH EM TV"
+            },
+            {
+                "score": 7.0074058,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">lorealparis_glowskin</span>"
+                        ]
+                    },
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "<span class=\"highlight\">lorealparis_glowskin</span>"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 508598.7757494252,
+                "creator_uid": "7611796534267954197",
+                "creator_handle": "lorealparis_glowskin",
+                "creator_nickname": "lorealparis_glowskin"
+            },
+            {
+                "score": 7.00587,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">qun.korea.e7_3</span>"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 506803.0465632906,
+                "creator_uid": "7341991912789115906",
+                "creator_handle": "qun.korea.e7_3",
+                "creator_nickname": "THỜI TRANG NAM Nữ"
+            },
+            {
+                "score": 7.005513,
+                "highlight": [
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "Thúy An <span class=\"highlight\">Livestream</span>"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 506387.30037469446,
+                "creator_uid": "6733908789193851906",
+                "creator_handle": "thuyannguyen1997",
+                "creator_nickname": "Thúy An Livestream"
+            },
+            {
+                "score": 6.9833393,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">nqqc_trean25</span>"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 481181.41468974657,
+                "creator_uid": "6747436842390209538",
+                "creator_handle": "nqqc_trean25",
+                "creator_nickname": "ᥫ᭡Rose unbox✨"
+            },
+            {
+                "score": 6.9793334,
+                "highlight": [
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "content ở <span class=\"highlight\">threads</span>"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 476763.36148265726,
+                "creator_uid": "7370918911258166273",
+                "creator_handle": "teakedao441",
+                "creator_nickname": "content ở threads"
+            },
+            {
+                "score": 6.97104,
+                "highlight": [
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "<span class=\"highlight\">Doreagau</span> Review"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 467745.3311543989,
+                "creator_uid": "7086480415792546817",
+                "creator_handle": "manocanhnghienda",
+                "creator_nickname": "Doreagau Review"
+            },
+            {
+                "score": 6.9667835,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">lanbeecream</span>"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 463183.50314690464,
+                "creator_uid": "7160671850850468890",
+                "creator_handle": "lanbeecream",
+                "creator_nickname": "Lan Bee"
+            },
+            {
+                "score": 6.9662375,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">thuylinhkorea888</span>"
+                        ]
+                    },
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "Thùy Linh <span class=\"highlight\">Korea88</span>"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 462601.3101428625,
+                "creator_uid": "7395416531327697921",
+                "creator_handle": "thuylinhkorea888",
+                "creator_nickname": "Thùy Linh Korea88"
+            },
+            {
+                "score": 6.926974,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">dreamie.bae</span>"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 422613.51801638625,
+                "creator_uid": "6822132300353225730",
+                "creator_handle": "dreamie.bae",
+                "creator_nickname": "Gạo’s diary ‧₊ ᵎᵎ 🍒 ⋅ ˚✮"
+            },
+            {
+                "score": 6.9246974,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">moorea.chic</span>"
+                        ]
+                    },
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "<span class=\"highlight\">Moorea.Chic</span>"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 420404.1761807727,
+                "creator_uid": "6692602400509084673",
+                "creator_handle": "moorea.chic",
+                "creator_nickname": "Moorea.Chic"
+            },
+            {
+                "score": 6.9238873,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">c.anisreal</span>"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 419620.33525825496,
+                "creator_uid": "6922757290048521217",
+                "creator_handle": "c.anisreal",
+                "creator_nickname": "Cao An"
+            },
+            {
+                "score": 6.879625,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">reviewtechreal</span>"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 378960.82708992186,
+                "creator_uid": "7298014116669015048",
+                "creator_handle": "reviewtechreal",
+                "creator_nickname": "Review Chuẩn Đétt"
+            },
+            {
+                "score": 6.873532,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">mirea.japan</span>"
+                        ]
+                    },
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "<span class=\"highlight\">Mirea</span> Gems Tại Nhật🇯🇵"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 373681.34035049565,
+                "creator_uid": "6800025542844072961",
+                "creator_handle": "mirea.japan",
+                "creator_nickname": "Mirea Gems Tại Nhật🇯🇵"
+            },
+            {
+                "score": 6.8609796,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">real.lamiee</span>"
+                        ]
+                    }
+                ],
+                "total": 4548,
+                "gmv_in_30": 363035.39183193457,
+                "creator_uid": "7598370477275137042",
+                "creator_handle": "real.lamiee",
+                "creator_nickname": "lamiee 🌷"
+            }
+        ]
+    },
+    "message": null,
+    "cached": null,
+    "code": null
+}

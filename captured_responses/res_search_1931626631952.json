@@ -1,0 +1,790 @@
+{
+    "success": true,
+    "data": {
+        "creator": [
+            {
+                "score": 9.456532,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">realpewpew</span>"
+                        ]
+                    },
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "Tạp Hóa <span class=\"highlight\">PewPew</span>"
+                        ]
+                    }
+                ],
+                "total": 45,
+                "gmv_in_30": 143054623.97277164,
+                "creator_uid": "7185560290230420482",
+                "creator_handle": "realpewpew",
+                "creator_nickname": "Tạp Hóa PewPew"
+            },
+            {
+                "score": 6.5886946,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">thuong.pewpew</span>"
+                        ]
+                    },
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "Thưởng <span class=\"highlight\">pewpew</span>"
+                        ]
+                    }
+                ],
+                "total": 45,
+                "gmv_in_30": 193938.2606072118,
+                "creator_uid": "7391809551295382544",
+                "creator_handle": "thuong.pewpew",
+                "creator_nickname": "Thưởng pewpew"
+            },
+            {
+                "score": 6.3341966,
+                "highlight": [
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "Tạp Hoá <span class=\"highlight\">PewPew</span>"
+                        ]
+                    }
+                ],
+                "total": 45,
+                "gmv_in_30": 107935.53187544398,
+                "creator_uid": "7347479110337348616",
+                "creator_handle": "thietbithongminh14",
+                "creator_nickname": "Tạp Hoá PewPew"
+            },
+            {
+                "score": 4.9469843,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">pewper_shop</span>"
+                        ]
+                    }
+                ],
+                "total": 45,
+                "gmv_in_30": 4424.919001823744,
+                "creator_uid": "6617747540630585346",
+                "creator_handle": "pewper_shop",
+                "creator_nickname": "FC Hung Vlog"
+            },
+            {
+                "score": 1.0,
+                "highlight": [
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "Tạp Hoá <span class=\"highlight\">PewPew</span> Live"
+                        ]
+                    }
+                ],
+                "total": 45,
+                "gmv_in_30": 0.0,
+                "creator_uid": "7319306747389182983",
+                "creator_handle": "koclive12030",
+                "creator_nickname": "Tạp Hoá PewPew Live"
+            },
+            {
+                "score": 1.0,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">taphoapewpew9</span>"
+                        ]
+                    },
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "Tạp Hoá <span class=\"highlight\">PewPew</span>"
+                        ]
+                    }
+                ],
+                "total": 45,
+                "gmv_in_30": 0.0,
+                "creator_uid": "7197320737191216133",
+                "creator_handle": "taphoapewpew9",
+                "creator_nickname": "Tạp Hoá PewPew"
+            },
+            {
+                "score": 1.0,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">taphoa.pewpew12</span>"
+                        ]
+                    }
+                ],
+                "total": 45,
+                "gmv_in_30": 0.0,
+                "creator_uid": "7307791559675741185",
+                "creator_handle": "taphoa.pewpew12",
+                "creator_nickname": "Gia dụng Hoàng Liinh"
+            },
+            {
+                "score": 1.0,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">fanpewpew9</span>"
+                        ]
+                    },
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "<span class=\"highlight\">FanPewPew</span>"
+                        ]
+                    }
+                ],
+                "total": 45,
+                "gmv_in_30": 0.0,
+                "creator_uid": "7386329705010840581",
+                "creator_handle": "fanpewpew9",
+                "creator_nickname": "FanPewPew"
+            },
+            {
+                "score": 1.0,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">taphoapewpew_</span>"
+                        ]
+                    },
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "<span class=\"highlight\">taphoapewpew_</span>"
+                        ]
+                    }
+                ],
+                "total": 45,
+                "gmv_in_30": 0.0,
+                "creator_uid": "7096055000338596865",
+                "creator_handle": "taphoapewpew_",
+                "creator_nickname": "taphoapewpew_"
+            },
+            {
+                "score": 1.0,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">taphoa.pewpew1015</span>"
+                        ]
+                    }
+                ],
+                "total": 45,
+                "gmv_in_30": 0.0,
+                "creator_uid": "7318813724049949698",
+                "creator_handle": "taphoa.pewpew1015",
+                "creator_nickname": "Phan Quảng Ðạt 66"
+            },
+            {
+                "score": 1.0,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">pewpictb</span>"
+                        ]
+                    },
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "<span class=\"highlight\">PewPic</span>"
+                        ]
+                    }
+                ],
+                "total": 45,
+                "gmv_in_30": 0.0,
+                "creator_uid": "7130555787084350469",
+                "creator_handle": "pewpictb",
+                "creator_nickname": "PewPic"
+            },
+            {
+                "score": 1.0,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">taphoapewpew02</span>"
+                        ]
+                    },
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "<span class=\"highlight\">PewPew</span> Tiện ích"
+                        ]
+                    }
+                ],
+                "total": 45,
+                "gmv_in_30": 0.0,
+                "creator_uid": "7346209759928075272",
+                "creator_handle": "taphoapewpew02",
+                "creator_nickname": "PewPew Tiện ích"
+            },
+            {
+                "score": 1.0,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">hizipewpew</span>"
+                        ]
+                    }
+                ],
+                "total": 45,
+                "gmv_in_30": 0.0,
+                "creator_uid": "7256908618288989190",
+                "creator_handle": "hizipewpew",
+                "creator_nickname": "HiZiUnBox🌷"
+            },
+            {
+                "score": 1.0,
+                "highlight": [
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "<span class=\"highlight\">Pewpew</span> FC ✅"
+                        ]
+                    }
+                ],
+                "total": 45,
+                "gmv_in_30": 0.0,
+                "creator_uid": "7429944111395865616",
+                "creator_handle": "pew.fc",
+                "creator_nickname": "Pewpew FC ✅"
+            },
+            {
+                "score": 1.0,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">pewpew.affliate</span>"
+                        ]
+                    }
+                ],
+                "total": 45,
+                "gmv_in_30": 0.0,
+                "creator_uid": "7504609096055505938",
+                "creator_handle": "pewpew.affliate",
+                "creator_nickname": "Pew Pew Gì Cũng Bán"
+            },
+            {
+                "score": 1.0,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">fanpewpew01</span>"
+                        ]
+                    }
+                ],
+                "total": 45,
+                "gmv_in_30": 0.0,
+                "creator_uid": "6640527117447741441",
+                "creator_handle": "fanpewpew01",
+                "creator_nickname": "Fan Pew Pew"
+            },
+            {
+                "score": 1.0,
+                "highlight": [
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "<span class=\"highlight\">Pewpew</span>"
+                        ]
+                    }
+                ],
+                "total": 45,
+                "gmv_in_30": 0.0,
+                "creator_uid": "6518931659991367681",
+                "creator_handle": "huyenmilo1617",
+                "creator_nickname": "Pewpew"
+            },
+            {
+                "score": 1.0,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">taphoa.pewpew10145</span>"
+                        ]
+                    }
+                ],
+                "total": 45,
+                "gmv_in_30": 0.0,
+                "creator_uid": "7318807305548563458",
+                "creator_handle": "taphoa.pewpew10145",
+                "creator_nickname": "HO VAN TRUONG KHANG"
+            },
+            {
+                "score": 1.0,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">shopcuapewpew</span>"
+                        ]
+                    }
+                ],
+                "total": 45,
+                "gmv_in_30": 0.0,
+                "creator_uid": "7130989504428524570",
+                "creator_handle": "shopcuapewpew",
+                "creator_nickname": "Shop của pew"
+            },
+            {
+                "score": 1.0,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">taphoa.pewpew1010</span>"
+                        ]
+                    }
+                ],
+                "total": 45,
+                "gmv_in_30": 0.0,
+                "creator_uid": "7318806828036506642",
+                "creator_handle": "taphoa.pewpew1010",
+                "creator_nickname": "LanhLuong2"
+            },
+            {
+                "score": 1.0,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">taphoa.pewpew1012</span>"
+                        ]
+                    }
+                ],
+                "total": 45,
+                "gmv_in_30": 0.0,
+                "creator_uid": "7318813723689321474",
+                "creator_handle": "taphoa.pewpew1012",
+                "creator_nickname": "Trịnh Hải Ðăng 87"
+            },
+            {
+                "score": 1.0,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">taphoa.pewpew85</span>"
+                        ]
+                    }
+                ],
+                "total": 45,
+                "gmv_in_30": 0.0,
+                "creator_uid": "7309131903638307848",
+                "creator_handle": "taphoa.pewpew85",
+                "creator_nickname": "Góc Chơi Hạnh Phúcc"
+            },
+            {
+                "score": 1.0,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">pewpewfan4</span>"
+                        ]
+                    }
+                ],
+                "total": 45,
+                "gmv_in_30": 0.0,
+                "creator_uid": "7294810916021077000",
+                "creator_handle": "pewpewfan4",
+                "creator_nickname": "Pewnoyfan"
+            },
+            {
+                "score": 1.0,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">taphoafanpewpew</span>"
+                        ]
+                    }
+                ],
+                "total": 45,
+                "gmv_in_30": 0.0,
+                "creator_uid": "6855844041268511745",
+                "creator_handle": "taphoafanpewpew",
+                "creator_nickname": "No way"
+            },
+            {
+                "score": 1.0,
+                "highlight": [
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "<span class=\"highlight\">PewPew</span> Club ✅"
+                        ]
+                    }
+                ],
+                "total": 45,
+                "gmv_in_30": 0.0,
+                "creator_uid": "7417153873678992401",
+                "creator_handle": "koc_vietnam1",
+                "creator_nickname": "PewPew Club ✅"
+            },
+            {
+                "score": 1.0,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">taphoapewpewshop</span>"
+                        ]
+                    },
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "Tạp Hoá <span class=\"highlight\">PewPew</span> Shop Chính"
+                        ]
+                    }
+                ],
+                "total": 45,
+                "gmv_in_30": 0.0,
+                "creator_uid": "7612601953055032340",
+                "creator_handle": "taphoapewpewshop",
+                "creator_nickname": "Tạp Hoá PewPew Shop Chính"
+            },
+            {
+                "score": 1.0,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">taphoa.pewpew942</span>"
+                        ]
+                    }
+                ],
+                "total": 45,
+                "gmv_in_30": 0.0,
+                "creator_uid": "7309132007089538066",
+                "creator_handle": "taphoa.pewpew942",
+                "creator_nickname": "VuPhong228"
+            },
+            {
+                "score": 1.0,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">pewpew12341234</span>"
+                        ]
+                    }
+                ],
+                "total": 45,
+                "gmv_in_30": 0.0,
+                "creator_uid": "6972608197484168194",
+                "creator_handle": "pewpew12341234",
+                "creator_nickname": "ĐEN ĐÁ 🪴🪴"
+            },
+            {
+                "score": 1.0,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">fanpewpew347</span>"
+                        ]
+                    }
+                ],
+                "total": 45,
+                "gmv_in_30": 0.0,
+                "creator_uid": "7376296490870211592",
+                "creator_handle": "fanpewpew347",
+                "creator_nickname": "Junoshopz"
+            },
+            {
+                "score": 1.0,
+                "highlight": [
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "GIA DỤNG <span class=\"highlight\">pewpew</span>"
+                        ]
+                    }
+                ],
+                "total": 45,
+                "gmv_in_30": 0.0,
+                "creator_uid": "7371706813191324690",
+                "creator_handle": "kho.s.gia.dng78",
+                "creator_nickname": "GIA DỤNG pewpew"
+            },
+            {
+                "score": 1.0,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">taphoa.pewpew1018</span>"
+                        ]
+                    }
+                ],
+                "total": 45,
+                "gmv_in_30": 0.0,
+                "creator_uid": "7318813252325475336",
+                "creator_handle": "taphoa.pewpew1018",
+                "creator_nickname": "Adrian Rios"
+            },
+            {
+                "score": 1.0,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">pewpew</span>.97"
+                        ]
+                    }
+                ],
+                "total": 45,
+                "gmv_in_30": 0.0,
+                "creator_uid": "6542054531986587650",
+                "creator_handle": "pewpew.97",
+                "creator_nickname": "𝟷 𝟷 : 𝟷 𝟶"
+            },
+            {
+                "score": 1.0,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">taphoa.pewpew1013</span>"
+                        ]
+                    }
+                ],
+                "total": 45,
+                "gmv_in_30": 0.0,
+                "creator_uid": "7317293816170890241",
+                "creator_handle": "taphoa.pewpew1013",
+                "creator_nickname": "Jessica Graham"
+            },
+            {
+                "score": 1.0,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">banhmipewpew</span>"
+                        ]
+                    },
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "Bánh Mì <span class=\"highlight\">PewPew</span>"
+                        ]
+                    }
+                ],
+                "total": 45,
+                "gmv_in_30": 0.0,
+                "creator_uid": "6947592405442118658",
+                "creator_handle": "banhmipewpew",
+                "creator_nickname": "Bánh Mì PewPew"
+            },
+            {
+                "score": 1.0,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">taphoa.pewpew19</span>"
+                        ]
+                    }
+                ],
+                "total": 45,
+                "gmv_in_30": 0.0,
+                "creator_uid": "7307790845146186759",
+                "creator_handle": "taphoa.pewpew19",
+                "creator_nickname": "Hà Vy QO Store"
+            },
+            {
+                "score": 1.0,
+                "highlight": [
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "LỤM HÀNG CÙNG <span class=\"highlight\">PEWPEW</span>"
+                        ]
+                    }
+                ],
+                "total": 45,
+                "gmv_in_30": 0.0,
+                "creator_uid": "7381628495853749256",
+                "creator_handle": "toilagiacatlum",
+                "creator_nickname": "LỤM HÀNG CÙNG PEWPEW"
+            },
+            {
+                "score": 1.0,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">taphoacuapewpew</span>"
+                        ]
+                    }
+                ],
+                "total": 45,
+                "gmv_in_30": 0.0,
+                "creator_uid": "7317273333883274241",
+                "creator_handle": "taphoacuapewpew",
+                "creator_nickname": "user23880525051"
+            },
+            {
+                "score": 1.0,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">pewpew</span>.1212"
+                        ]
+                    }
+                ],
+                "total": 45,
+                "gmv_in_30": 0.0,
+                "creator_uid": "7265231422566515714",
+                "creator_handle": "pewpew.1212",
+                "creator_nickname": "Đồ dùng mùa hè ☀️"
+            },
+            {
+                "score": 1.0,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">taphoa.pewpew94</span>"
+                        ]
+                    }
+                ],
+                "total": 45,
+                "gmv_in_30": 0.0,
+                "creator_uid": "7309132007089587218",
+                "creator_handle": "taphoa.pewpew94",
+                "creator_nickname": "ThuTrangTrangDo2"
+            },
+            {
+                "score": 1.0,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">pewpew08778</span>"
+                        ]
+                    },
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "<span class=\"highlight\">pewpew08</span>"
+                        ]
+                    }
+                ],
+                "total": 45,
+                "gmv_in_30": 0.0,
+                "creator_uid": "7458553581303055367",
+                "creator_handle": "pewpew08778",
+                "creator_nickname": "pewpew08"
+            },
+            {
+                "score": 1.0,
+                "highlight": [
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "Tạp Hoá <span class=\"highlight\">pewpew</span>"
+                        ]
+                    }
+                ],
+                "total": 45,
+                "gmv_in_30": 0.0,
+                "creator_uid": "7146092367656993819",
+                "creator_handle": "pewcilet",
+                "creator_nickname": "Tạp Hoá pewpew"
+            },
+            {
+                "score": 1.0,
+                "highlight": [
+                    {
+                        "name": "creator_nickname",
+                        "text": [
+                            "<span class=\"highlight\">PewPewer</span>"
+                        ]
+                    }
+                ],
+                "total": 45,
+                "gmv_in_30": 0.0,
+                "creator_uid": "7236756498336236550",
+                "creator_handle": "thaitb37",
+                "creator_nickname": "PewPewer"
+            },
+            {
+                "score": 1.0,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">fctaphoapewpew</span>"
+                        ]
+                    }
+                ],
+                "total": 45,
+                "gmv_in_30": 0.0,
+                "creator_uid": "7284827588471047169",
+                "creator_handle": "fctaphoapewpew",
+                "creator_nickname": "user96474224363"
+            },
+            {
+                "score": 1.0,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">nghienpewpew1</span>"
+                        ]
+                    }
+                ],
+                "total": 45,
+                "gmv_in_30": 0.0,
+                "creator_uid": "7283405457724507137",
+                "creator_handle": "nghienpewpew1",
+                "creator_nickname": "Nghiện Pew Pew"
+            },
+            {
+                "score": 1.0,
+                "highlight": [
+                    {
+                        "name": "creator_handle",
+                        "text": [
+                            "<span class=\"highlight\">taphoa.pewpew.com</span>"
+                        ]
+                    }
+                ],
+                "total": 45,
+                "gmv_in_30": 0.0,
+                "creator_uid": "7318813252325442568",
+                "creator_handle": "taphoa.pewpew.com",
+                "creator_nickname": "Thủy Minh Dân 45"
+            }
+        ]
+    },
+    "message": null,
+    "cached": null,
+    "code": null
+}

@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "data": [
+        {
+            "id": -2,
+            "officeIcon": "🆕",
+            "name": "Emerging Creators",
+            "i18nKey": "Emerging Creators",
+            "type": "creator",
+            "isCustom": false,
+            "enable": true,
+            "isNew": false,
+            "data": {
+                "officeIcon": "🆕",
+                "cateValue": {},
+                "dateRangeType": 30,
+                "seniorFilterValue": {
+                    "creator.filter.ad.creator_debut": "<31",
+                    "creator.filter.creator_type": "INDEPENDENT",
+                    "global.filter.revenue_trend": "GROWING"
+                }
+            },
+            "order": 0
+        },
+        {
+            "id": -3,
+            "officeIcon": "🎬",
+            "name": "Top Video Creators",
+            "i18nKey": "Top Video Creators",
+            "type": "creator",
+            "isCustom": false,
+            "enable": true,
+            "isNew": false,
+            "data": {
+                "officeIcon": "🎬",
+                "cateValue": {},
+                "dateRangeType": 30,
+                "seniorFilterValue": {
+                    "creator.filter.content_type": "VIDEO"
+                }
+            },
+            "order": 0
+        },
+        {
+            "id": -4,
+            "officeIcon": "🎦",
+            "name": "Top Live Creators",
+            "i18nKey": "Top Live Creators",
+            "type": "creator",
+            "isCustom": false,
+            "enable": true,
+            "isNew": false,
+            "data": {
+                "officeIcon": "🎦",
+                "cateValue": {},
+                "dateRangeType": 30,
+                "seniorFilterValue": {
+                    "creator.filter.content_type": "LIVE"
+                }
+            },
+            "order": 0
+        }
+    ],
+    "message": null,
+    "cached": null,
+    "code": null
+}

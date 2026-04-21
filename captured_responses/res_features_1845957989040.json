@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "data": {
+        "FILTER.CUSTOM_TIMES": {
+            "key": "FILTER.CUSTOM_TIMES",
+            "type": "BENEFIT",
+            "enable": null,
+            "count": 10,
+            "guidance": {
+                "actionType": {
+                    "name": "Upgrade",
+                    "desc": "Upgrade to view more data"
+                },
+                "targetLevel": null,
+                "purchasePrices": null,
+                "target": null,
+                "message": "Today's query times has been used up",
+                "cause": null
+            },
+            "progress": {
+                "total": 10,
+                "used": 2,
+                "remain": 8,
+                "full": false
+            }
+        }
+    },
+    "message": "trial",
+    "cached": null,
+    "code": null
+}
