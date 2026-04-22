@@ -1,17 +1,17 @@
-import pandas as pd
-from playwright.sync_api import sync_playwright
+import json
 import os
+import time
+from playwright.sync_api import sync_playwright
 
 # --- CẤU HÌNH ---
-KEYWORD = "Hang du muc"
-OUTPUT_EXCEL = f"Danh_Sach_KOC_{KEYWORD.replace(' ', '_')}.xlsx"
+KEYWORD = "hang du muc"
+timestamp = time.strftime("%Y%m%d_%H%M%S")
+OUTPUT_JSON = f"Search_API_{KEYWORD}_{timestamp}.json"
 
-def scrape_all_profiles(keyword):
+def intercept_api_data(keyword):
     user_data_dir = os.path.join(os.environ['LOCALAPPDATA'], r"Google\Chrome\User Data\Default")
 
     with sync_playwright() as p:
-        print(f"🚀 Đang quét TẤT CẢ profile cho từ khóa: {keyword}")
-        
         browser = p.chromium.launch_persistent_context(
             user_data_dir,
             channel="chrome",
@@ -20,65 +20,74 @@ def scrape_all_profiles(keyword):
         )
 
         page = browser.pages[0] if browser.pages else browser.new_page()
+        captured_data = {"success": True, "data": []}
+
+        def handle_response(response):
+            nonlocal captured_data
+            # Chỉ bắt gói tin JSON từ các endpoint tìm kiếm/danh sách
+            if "application/json" in response.headers.get("content-type", ""):
+                # Lọc các URL đặc trưng của Kalodata khi search
+                if any(x in response.url for x in ["query", "list", "search", "detail"]):
+                    try:
+                        data = response.json()
+                        
+                        # Hàm quét mọi object trong JSON
+                        def find_items(obj):
+                            if isinstance(obj, dict):
+                                # Nếu thấy có nickname/handle thì kiểm tra
+                                nick = str(obj.get("nickname", "")).lower()
+                                hdl = str(obj.get("handle", "")).lower()
+                                
+                                if keyword.lower() in nick or keyword.lower() in hdl:
+                                    if not any(d.get("id") == obj.get("id") for d in captured_data["data"]):
+                                        captured_data["data"].append(obj)
+                                        print(f"🎯 Đã bắt được: {obj.get('nickname')}")
+                                
+                                for v in obj.values(): find_items(v)
+                            elif isinstance(obj, list):
+                                for item in obj: find_items(item)
+
+                        find_items(data)
+                    except:
+                        pass
+
+        page.on("response", handle_response)
 
         try:
+            print("🌐 Truy cập trang Creator...")
             page.goto("https://www.kalodata.com/creator", wait_until="networkidle")
             
             # 1. Thực hiện tìm kiếm
             search_input = "input[placeholder*='Search']"
             page.wait_for_selector(search_input)
             page.fill(search_input, keyword)
+            page.wait_for_timeout(500) # Nghỉ nhẹ để web nhận text
             page.keyboard.press("Enter")
             
-            # Đợi load danh sách (tăng thời gian vì nhiều kết quả cần load lâu hơn)
-            page.wait_for_timeout(10000) 
+            print(f"⏳ Đang đợi kết quả cho '{keyword}'...")
+            page.wait_for_timeout(7000) 
 
-            # 2. LẤY TIÊU ĐỀ BẢNG
-            headers = [h.inner_text().strip() for h in page.query_selector_all("th") if h.inner_text().strip()]
-            if not headers:
-                headers = ["STT", "Creator", "Phân loại", "Followers", "Doanh thu (GMV)", "Đơn hàng", "Tỉ lệ chuyển đổi", "Video/Live", "Quốc gia"]
+            # 2. CHIÊU CUỐI: Nếu vẫn chưa thấy data, hãy click vào hàng đầu tiên hiện ra
+            if not captured_data["data"]:
+                print("⚠️ API chưa phản hồi dữ liệu đúng. Đang thử kích hoạt bằng cách Click...")
+                # Tìm hàng nào có chứa text keyword và click
+                try:
+                    target = page.locator("tr").filter(has_text=keyword).first
+                    if target.is_visible():
+                        target.click()
+                        page.wait_for_timeout(5000) # Đợi trang detail load API
+                except:
+                    pass
 
-            # 3. QUÉT TẤT CẢ CÁC HÀNG (TR)
-            rows = page.query_selector_all("tr")
-            final_data = []
-
-            print(f"📊 Tìm thấy {len(rows)} hàng tiềm năng. Đang tách dữ liệu...")
-
-            for row in rows:
-                # Lấy text của cả hàng để kiểm tra xem có phải hàng chứa dữ liệu không
-                row_text = row.inner_text().strip()
-                
-                # Loại bỏ hàng tiêu đề hoặc hàng trống
-                if not row_text or row_text == "".join(headers):
-                    continue
-                
-                # KỸ THUẬT MỚI: Thử lấy dữ liệu từ td, nếu không được thì tự tách chuỗi theo dòng (newline)
-                cells = row.query_selector_all("td")
-                if cells:
-                    row_data = [c.inner_text().strip().replace('\n', ' ') for c in cells]
-                else:
-                    # Nếu không có td (do dùng div), ta tách theo xuống dòng
-                    row_data = [line.strip() for line in row_text.split('\n') if line.strip()]
-
-                if len(row_data) > 1: # Đảm bảo không phải hàng rác
-                    # Cân bằng số cột để khớp với Excel
-                    if len(row_data) > len(headers):
-                        row_data = row_data[:len(headers)]
-                    else:
-                        row_data += [""] * (len(headers) - len(row_data))
-                    
-                    final_data.append(row_data)
-
-            # 4. XUẤT EXCEL
-            if final_data:
-                df = pd.DataFrame(final_data, columns=headers[:len(final_data[0])])
-                df.to_excel(OUTPUT_EXCEL, index=False)
-                print(f"✅ THÀNH CÔNG! Đã lấy được {len(final_data)} profile vào file: {OUTPUT_EXCEL}")
+            if captured_data["data"]:
+                with open(OUTPUT_JSON, "w", encoding="utf-8") as f:
+                    json.dump(captured_data, f, ensure_ascii=False, indent=4)
+                print(f"✅ XONG! Đã lưu dữ liệu vào: {OUTPUT_JSON}")
             else:
-                print("❌ Vẫn không tách được dữ liệu. Có thể bảng đang load chậm.")
+                print("❌ Vẫn không thấy dữ liệu trong API. Hãy kiểm tra xem bạn đã Login Kalodata chưa.")
 
         finally:
             browser.close()
 
 if __name__ == "__main__":
-    scrape_all_profiles(KEYWORD)
+    intercept_api_data(KEYWORD)
